@@ -7,8 +7,16 @@ just a sample of text line
   1. what is this 
   
   its easy to make words **bold like this**
-  and also very easy to **italic some other words**
+  and also very easy to *italic some other words*
   you can even
  [this is the description](https://github.com)
+ 
+ * step-1
+ * step-2
+  * step - 1a
+  
+  1. step -1
+  1. step -2
+    1. step -1a
  
  
