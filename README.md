@@ -15,8 +15,8 @@ just a sample of text line
  * step-2
   * step - 1a
   
-  1. step -1
-  1. step -2
-    1. step -1a
+  1 . step -1
+  1 . step -2
+    1 . step -1a
  
  
