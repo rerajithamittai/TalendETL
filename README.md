@@ -6,5 +6,9 @@ just a sample of text line
   - hello welcome 
   1. what is this 
   
- [this is the description] (https://github.com}
+  its easy to make words **bold like this**
+  and also very easy to **italic some other words**
+  you can even
+ [this is the description](https://github.com)
+ 
  
