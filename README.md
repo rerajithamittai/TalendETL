@@ -25,4 +25,9 @@ just a sample of text line
    1. Item 3a
    1. Item 3b
  
+ we can write inline code like this `a+b = c+d`
+ ~~this will be strikedown~~ seeee?
+ 
+ http://www.github.com/
+ 
  
